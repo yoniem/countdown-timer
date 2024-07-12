@@ -1,15 +1,32 @@
+# Countdown Timer
 
-### Instructions for Updating the `README.md`
+A simple web-based countdown timer that allows users to input a date and time and counts down to that specified date.
 
-1. **Replace placeholders:**
-   - Replace `YOUR_USERNAME` with your actual GitHub username.
-   - If you have a screenshot of your project, save it as `screenshot.png` in the root directory of your project. If not, you can remove the "Screenshots" section from the `README.md`.
+## Features
 
-2. **Save the `README.md` file:**
-   - Save the above content in a file named `README.md` in the root directory of your project.
+- Input a date and time to start the countdown
+- Display remaining days, hours, minutes, and seconds
+- Alert when the countdown reaches zero
 
-3. **Add, commit, and push the `README.md` file to GitHub:**
+## Demo
+
+You can view the live project [here](https://yoniem.github.io/countdown-timer).
+
+## Screenshots
+
+![Countdown Timer Screenshot](screenshot.png)
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Setup
+
+To run this project locally:
+
+1. Clone the repository:
    ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
+   git clone https://github.com/yoniem/countdown-timer.git
+   cd countdown-timer
